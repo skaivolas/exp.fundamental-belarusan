@@ -1,3 +1,9 @@
+---
+title:  chapter26. 
+layout: page
+---
+
+
 <table>
 <colgroup>
 <col style="width: 33%" />

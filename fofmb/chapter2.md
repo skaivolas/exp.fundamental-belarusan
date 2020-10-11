@@ -1,3 +1,9 @@
+---
+title:  chapter2. 
+layout: page
+---
+
+
 <div style="text-align: center;">
 
 <div style="text-align: left;">

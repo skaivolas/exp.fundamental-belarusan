@@ -1,3 +1,9 @@
+---
+title:  gnufreedl. 
+layout: page
+---
+
+
 GNU Free Documentation License  
           Version 1.2, November 2002  
   

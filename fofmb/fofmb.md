@@ -1,3 +1,9 @@
+---
+title:  fofmb. 
+layout: page
+---
+
+
 <div style="text-align: center;">
 
 [<span style="text-decoration: underline;">![Fundamentals of Modern
