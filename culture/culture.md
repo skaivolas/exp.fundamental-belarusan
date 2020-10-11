@@ -1,3 +1,8 @@
+---
+title: Culture
+layout: page
+---
+
 <div style="text-align: center;">
 
 ![Dancing in the Childrens' Park](dancing.jpg)  

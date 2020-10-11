@@ -1,3 +1,8 @@
+---
+title: Concordance
+layout: page
+---
+
 <div style="text-align: center;">
 
 <span style="font-weight: bold;">Belarusian Concordance</span>  

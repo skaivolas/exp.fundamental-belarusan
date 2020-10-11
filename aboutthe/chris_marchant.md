@@ -1,3 +1,8 @@
+---
+title: About
+layout: page
+---
+
 [\<- Back](../index.html)  
   
   
