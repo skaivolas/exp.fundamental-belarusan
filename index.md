@@ -1,5 +1,5 @@
 ---
-title: Fundamenta Belarusan
+title: Fundamental Belarusan
 layout: page
 ---
 
