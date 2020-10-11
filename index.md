@@ -1,3 +1,9 @@
+---
+title: Fundamenta Belarusan
+layout: page
+---
+
+
 <div style="text-align: center;">
 
 vitba.org  

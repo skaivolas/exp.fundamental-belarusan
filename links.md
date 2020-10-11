@@ -1,3 +1,8 @@
+---
+title: Links
+layout: page
+---
+
 <div style="text-align: center;">
 
 Belarusian Language Resources on the Web  
