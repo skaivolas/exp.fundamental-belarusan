@@ -10,7 +10,7 @@ collections:
     output: true
 baseurl: 
 maininstitutesite: 
-author: © 2004 Christian Cardell Marchant. This is an archived copy of the website <a href="https://vitba.org" target="_blank">vitba.org</a>. Free licence <a href="gnufreedl.html" target="_blank">FDL</a>.
+author: © 2004 Christian Cardell Marchant. This is an archived copy of the website <a href="//vitba.org" target="_blank">vitba.org</a>. Free licence <a href="gnufreedl.html" target="_blank">FDL</a>.
 simple_search: http://google.com/search
 markdown: kramdown
 permalink: "/articles/:short_year/:title"
