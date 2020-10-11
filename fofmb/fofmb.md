@@ -95,14 +95,4 @@ the files.
 <span class="small">[\<- Back](../)</span> <span class="small"></span>  
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-[](http://adlik.akavita.com/bin/link?id=8623)
-
-![Akavita](http://adlik.akavita.com/bin/lik?id=8623)
+ 
