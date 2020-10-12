@@ -1,23 +1,9 @@
 ---
-title: Fundamental Belarusan
+title: The home of Fundamentals of Modern Belarusian
 layout: page
 ---
 
-
-<div style="text-align: center;">
-
-vitba.org  
-<span class="small"><span class="small">The home of Fundamentals of
-Modern Belarusian</span></span>  
-
-</div>
-
-  
-  
-Last Updated [09/18/04](#091804)  
-  
-  
-![Ratusha](ratusha.jpg)    Welcome to vitba.org, a site dedicated to the
+{% marginnote 'ratusha' '![Ratusha](ratusha.jpg)' %}Welcome to vitba.org, a site dedicated to the
 Belarusian language.  Here you can find my current projects, which at
 the current time consists only of the text
 [<span style="text-decoration: underline;">Fundamentals of Modern
@@ -75,48 +61,15 @@ willing to contribute, the following need to be done.
 
   
   
-<span id="091804"></span>09/18/04  
-  
-I've uploaded the rest of the transcriptions to the Culture section, and
-added translations for them.  There are some
-[pretty](culture/transcriptions/dzyonnik_5_brygady/lyric_lyonya.html)
-[interesting](culture/transcriptions/dzyonnik_5_brygady/text_4.html)
-[ones](culture/transcriptions/dzyonnik_5_brygady/vyalikaya_vobryna_village.html),
-so [check it
+09/18/04 : Uploaded the rest of the transcriptions (Culture section), added their translations.  [Pretty](culture/transcriptions/dzyonnik_5_brygady/lyric_lyonya.html),
+[interesting](culture/transcriptions/dzyonnik_5_brygady/text_4.html) [ones](culture/transcriptions/dzyonnik_5_brygady/vyalikaya_vobryna_village.html), so [check it
 out](culture/transcriptions/dzyonnik_5_brygady/fifth_brigade.html)\!  
-  
-09/02/04  
-  
-I'm back to school, um, hurray? and I've finally got internet again. 
-I've typed up a bunch of the transcriptions that I was given by Prof.
-Rusak and uploaded them to the Culture section.  I'm sure it's full of
-mistakes, but they are interesting accounts.  
-  
-  
-08/17/04  
-  
-Well, it's been a long time since anyone's sent me an email here. 
-Anyways, over the course of the summer, I've got the concordance filled
-out and uploaded, but it's still pretty raw.  I've also finished
-converting FofMB to HTML format, so now it really is open.  
-Anyways, today on the advice of a friend, I took a look at something
-called "belazar" but I have to say I'm a little sceptical of how its
-going to turn out.  Written for Windows X86, not GPL'd, and expecting a
-lot of contribution from the community...   Well, if it were GPL'd I
-sure would feel a lot better about it.  It actually has me thinking
-about how I would attack the problem...  am i challenging myself?  FofMB
-itself still isn't quite wrapped up, though it's close.  
-  
-  
-02/18/04  
-  
-Special thanks to Rydel from [pravapis.org](http://www.pravapis.org/)
-for his help with FofMB.  Another list of corrections to improve the
-work.  
-  
-  
-02/09/04  
-  
-Special thanks to Kern Lunde for the many corrections he sent me. I have
-updated FofMB with corrections to those typos and errors he pointed
-out.
+09/02/04 : Typed up the transcriptions given by Prof. Rusak, uploaded them (Culture section), probable mistakes.
+
+
+
+### Last updates
+
+08/17/04 : Concordance filled out and uploaded, still pretty raw. FofMB converted to HTML.
+02/18/04 : FofMB, corrections.
+02/09/04 : FofMB, corrections.
