@@ -67,10 +67,6 @@ willing to contribute, the following need to be done.
 </td>
 </tr>
 <tr class="even">
-<td><a href="movies/thugggs.html"><span style="text-decoration: underline;">Personal Stuff</span></a><br />
-</td>
-</tr>
-<tr class="odd">
 <td><a href="aboutthe/chris_marchant.html">About Chris Marchant<br />
 </a></td>
 </tr>
