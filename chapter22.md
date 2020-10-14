@@ -1,44 +1,7 @@
 ---
-title:  chapter22. 
+title: Chapter 22  The Accusative Case  
 layout: page
 ---
-
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter21.html">&lt;&lt; Chapter 21:  The Nominative Case</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter23.html">Chapter 23:  The Genitive Case</a><a href="chapter23.html">&gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-
-<div style="text-align: center;">
-
-Chapter 22  
-  
-The Accusative Case  
-
-</div>
 
   
 22.1        Use of the accusative case  

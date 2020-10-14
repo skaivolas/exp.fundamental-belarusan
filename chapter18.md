@@ -1,45 +1,7 @@
 ---
-title:  chapter18. 
+title: Chapter 18  Verbs of Motion  
 layout: page
 ---
-
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter17.html">&lt;&lt; Chapter 17:  The Imperative</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter19.html">Chapter 19:  Verbal Prefixes &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-
-<div style="text-align: center;">
-
-Chapter 18  
-  
-Verbs of Motion  
-
-</div>
 
   
     There is a set of verbs expressing motion, whose imperfective aspect

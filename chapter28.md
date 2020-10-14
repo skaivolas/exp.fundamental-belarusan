@@ -1,45 +1,7 @@
 ---
-title:  chapter28. 
+title: Chapter 28  Conditional Sentences  
 layout: page
 ---
-
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter27.html">&lt;&lt; Chapter 27:  Prepositional Oddities</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter29.html">Chapter 29:  Adverbs &gt;&gt;</a></td>
-</tr>
-</tbody>
-</table>
-
-<span class="small"><span class="small">  
-  
-</span></span>
-
-<div style="text-align: center;">
-
-<span class="small"></span>Chapter 28  
-  
-Conditional Sentences  
-
-</div>
 
   
 28.1        Real conditional sentences  

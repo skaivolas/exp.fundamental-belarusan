@@ -1,45 +1,8 @@
 ---
-title:  chapter17. 
+title:  Chapter 17 The Imperative 
 layout: page
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter16.html">&lt;&lt; Chapter 16:  Present and Future Tenses</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter18.html">Chapter 18:  Verbs of Motion &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-
-<div style="text-align: center;">
-
-<span style="font-weight: bold;">Chapter 17</span>  
-  
-The Imperative  
-
-</div>
 
   
 17.1        Formation of the imperative  

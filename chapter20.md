@@ -1,45 +1,7 @@
 ---
-title:  chapter20. 
+title: Chapter 20   Gerunds and Participles  
 layout: page
 ---
-
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter19.html">&lt;&lt; Chapter 19:  Verbal Prefixes</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter21.html">Chapter 21:  The Nominative Case</a><a href="file:///Users/chris/vitba.org/fofmb/chapter20.html">&gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-
-<div style="text-align: center;">
-
-Chapter 20  
-  
-Gerunds and Participles  
-
-</div>
-
   
     Gerunds and participles are not commonly used in colloquial
 Belarusian, but they are found in literature.  

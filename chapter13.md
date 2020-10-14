@@ -1,46 +1,9 @@
 ---
-title:  chapter13. 
+title: Chapter 13  Miscellaneous Verbs and Verb Irregularities  
 layout: page
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter12.html">&lt;&lt; Chapter 12:  2nd Conjugation Verbs</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter14.html">Chapter 14:  Reflexive Verbs &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-
-<div style="text-align: center;">
-
-Chapter 13  
-  
-Miscellaneous Verbs and Verb Irregularities  
-
-</div>
-
-  
+ 
 13.1        Three miscellaneous verbs  
   
     The verbs б<span style="text-decoration: underline;">е</span>гчы,

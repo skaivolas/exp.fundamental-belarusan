@@ -1,45 +1,9 @@
 ---
-title:  chapter26. 
+title: Chapter 26  The Prepositional Case  
 layout: page
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter25.html">&lt;&lt; Chapter 25:  The Instrumental Case</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter27.html">Chapter 27:  Prepositional Oddities &gt;&gt;</a></td>
-</tr>
-</tbody>
-</table>
-
-  
-
-<div style="text-align: center;">
-
-Chapter 26  
-  
-The Prepositional Case  
-
-</div>
-
-  
+ 
 26.1        Use of the prepositional case  
   
     This case is only used when following prepositions, hence the name. 

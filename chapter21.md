@@ -1,44 +1,10 @@
 ---
-title:  chapter21. 
+title: Chapter 21  The Nominative Case  
 layout: page
 ---
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter20.html">&lt;&lt; Chapter 20:  Gerunds and Participles</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter22.html">Chapter 22:  The Accusative Case</a><a href="chapter21.html">&gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
 
-  
-
-<div style="text-align: center;">
-
-Chapter 21  
-  
-The Nominative Case  
-
-</div>
 
   
 21.1        Use of the nominative case  

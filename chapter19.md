@@ -1,46 +1,9 @@
 ---
-title:  chapter19. 
+title: Chapter 19  Verbal Prefixes  
 layout: page
 ---
 
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter18.html">&lt;&lt; Chapter 18:  Verbs of Motion</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter20.html">Chapter 20:  Gerunds and Participles &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-
-<div style="text-align: center;">
-
-Chapter 19  
-  
-Verbal Prefixes  
-
-</div>
-
-  
 19.1        Prefix usage  
   
     Adding a prefix to an imperfective verb usually creates a perfective

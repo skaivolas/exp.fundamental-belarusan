@@ -1,47 +1,9 @@
 ---
-title:  chapter11. 
+title: Chapter 11  1st Conjugation Verbs  
 layout: page
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter10.html">&lt;&lt; Chapter 10:  Numerals</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter12.html">Chapter 12:  2nd Conjugation Verbs &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-
-<div style="text-align: center;">
-
-Chapter 11  
-  
-1st Conjugation Verbs  
-
-</div>
-
-  
+ 
     Most of the difficulty involved with Belarusian verbs comes from the
 spelling rules, which distort the ending of the verb.  Careful attention
 to spelling rules predicts and explains the different variations of

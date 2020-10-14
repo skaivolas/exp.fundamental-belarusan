@@ -1,46 +1,9 @@
 ---
-title:  chapter30. 
+title: Chapter 30  Conjunctions and Particles  
 layout: page
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter29.html">&lt;&lt; Chapter 29:  Adverbs</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="gnufreedl.html">GNU Free Documentation License &gt;&gt;</a></td>
-</tr>
-</tbody>
-</table>
-
-<span class="small"><span class="small">  
-</span></span>
-
-<div style="text-align: center;">
-
-Chapter 30  
-  
-Conjunctions and Particles  
-
-</div>
-
-  
+ 
 30.1        Coordinating conjunctions  
   
     Coordinating conjunctions join two different phrases into one
