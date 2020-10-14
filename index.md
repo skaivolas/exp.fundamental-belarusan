@@ -5,7 +5,7 @@ layout: page
 
 {% marginnote 'ratusha' '![Ratusha](ratusha.jpg)' %}Fundamentals of Modern Belarusian:
  - [Fundamentals of Modern Belarusian](fofmb/fofmb.html)
- - Concordance](concordance/concordance.html)
+ - [Concordance](concordance/concordance.html)
  - [Culture](culture/culture.html)
  - [About Chris Marchant](aboutthe/chris_marchant.html)
 
@@ -23,9 +23,9 @@ out](culture/transcriptions/dzyonnik_5_brygady/fifth_brigade.html)\!
 02/09/04 : FofMB, corrections.
 
 Next steps: 
-  - Add pronunciation section;
-  - Add book of exercises;
-  - Make a dictionary from concordance;
-  - Proofread transcriptions.
-  - Post the entire concordance
-  - Post audio. 
+ - Add pronunciation section;
+ - Add book of exercises;
+ - Make a dictionary from concordance;
+ - Proofread transcriptions.
+ - Post the entire concordance
+ - Post audio.
