@@ -3,6 +3,11 @@ title: The home of Fundamentals of Modern Belarusian
 layout: page
 ---
 
+| [Fundamentals of Modern Belarusian](fofmb/fofmb.html) |
+| [Concordance](concordance/concordance.html) |
+| [Culture](culture/culture.html) |
+| [About Chris Marchant](aboutthe/chris_marchant.html) |
+
 {% marginnote 'ratusha' '![Ratusha](ratusha.jpg)' %}Welcome to vitba.org, a site dedicated to the
 Belarusian language.  Here you can find my current projects, which at
 the current time consists only of the text
@@ -18,23 +23,6 @@ concordance to this site sometime (although it is quite large).  Another
 thing remaining for me to do is to post audio files of Belarusian speech
 on this site.  
   
-There is much besides this that needs to be done.  If anyone is
-willing to contribute, the following need to be done.  
-
-  - Pronunciation section added to
-    [<span style="text-decoration: underline;">Fundamentals</span>](fofmb/fofmb.html).
-  - Book of exercises to go with
-    [<span style="text-decoration: underline;">Fundamentals</span>](fofmb/fofmb.html).
-  - Dictionary to be made from concordance (this one would mean a lot,
-    and is the kind of project that really won't succeed without outside
-    support.)
-  - Proofreading of transcriptions.  This of course can't be done until
-    I scan the originals and post them as well.  
-
-| [Fundamentals of Modern Belarusian](fofmb/fofmb.html) |
-| [Concordance](concordance/concordance.html) |
-| [Culture](culture/culture.html) |
-| [About Chris Marchant](aboutthe/chris_marchant.html) |
   
   
 {% marginnote 'banner' '![banner](banner.jpg)' %}09/18/04 : Uploaded the rest of the transcriptions (Culture section), added their translations.  [Pretty](culture/transcriptions/dzyonnik_5_brygady/lyric_lyonya.html),
@@ -49,3 +37,10 @@ out](culture/transcriptions/dzyonnik_5_brygady/fifth_brigade.html)\!
 08/17/04 : Concordance filled out and uploaded, still pretty raw. FofMB converted to HTML.
 02/18/04 : FofMB, corrections.
 02/09/04 : FofMB, corrections.
+
+Next steps: 
+  - Add pronunciation section;
+  - Add book of exercises;
+  - Make a dictionary from concordance;
+  - Proofread transcriptions.
+
