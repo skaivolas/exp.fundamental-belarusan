@@ -31,13 +31,34 @@ willing to contribute, the following need to be done.
   - Proofreading of transcriptions.  This of course can't be done until
     I scan the originals and post them as well.  
 
-{% marginnote 'banner' '![banner](banner.jpg)' %}[Fundamentals of Modern Belarusian](fofmb/fofmb.html)  
+{% marginnote 'banner' '![banner](banner.jpg)' %}
+ <span class="small"></span>
+<span class="small"></span> <span class="small"></span>
+<span class="small"></span>
 
-[Concordance](concordance/concordance.html)  
-
-[Culture](culture/culture.html)  
-
-[About Chris Marchant](aboutthe/chris_marchant.html)
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><a href="fofmb/fofmb.html">Fundamentals of Modern Belarusian</a><br />
+</td>
+</tr>
+<tr class="even">
+<td><a href="concordance/concordance.html">Concordance</a><br />
+</td>
+</tr>
+<tr class="odd">
+<td><a href="culture/culture.html"><span style="text-decoration: underline;">Culture</span></a><br />
+</td>
+</tr>
+<tr class="even">
+<td><a href="aboutthe/chris_marchant.html">About Chris Marchant<br />
+</a></td>
+</tr>
+</tbody>
+</table>
 
   
   
