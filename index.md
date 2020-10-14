@@ -9,7 +9,7 @@ the current time consists only of the text
 [<span style="text-decoration: underline;">Fundamentals of Modern
 Belarusian</span>](fofmb/fofmb.html).  
   
-    In order to write
+In order to write
 [<span style="text-decoration: underline;">Fundamentals</span>](fofmb/fofmb.html),
 I wrote a computer program that formed a concordance of the Belarusian
 language based on the books available from
@@ -18,7 +18,7 @@ concordance to this site sometime (although it is quite large).  Another
 thing remaining for me to do is to post audio files of Belarusian speech
 on this site.  
   
-    There is much besides this that needs to be done.  If anyone is
+There is much besides this that needs to be done.  If anyone is
 willing to contribute, the following need to be done.  
 
   - Pronunciation section added to
@@ -31,33 +31,18 @@ willing to contribute, the following need to be done.
   - Proofreading of transcriptions.  This of course can't be done until
     I scan the originals and post them as well.  
 
-![banner](banner.jpg) <span class="small"></span>
-<span class="small"></span> <span class="small"></span>
-<span class="small"></span>
+{% marginnote 'banner' '![banner](banner.jpg)' %}
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="fofmb/fofmb.html">Fundamentals of Modern Belarusian</a><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="concordance/concordance.html">Concordance</a><br />
-</td>
-</tr>
-<tr class="odd">
-<td><a href="culture/culture.html"><span style="text-decoration: underline;">Culture</span></a><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="aboutthe/chris_marchant.html">About Chris Marchant<br />
-</a></td>
-</tr>
-</tbody>
-</table>
+  
+
+[Fundamentals of Modern Belarusian](fofmb/fofmb.html)  
+
+[Concordance](concordance/concordance.html)  
+
+[Culture](culture/culture.html)  
+
+[About Chris Marchant  
+](aboutthe/chris_marchant.html)
 
   
   
