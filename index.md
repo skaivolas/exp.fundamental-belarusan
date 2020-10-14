@@ -6,33 +6,6 @@ layout: page
 
 {% marginnote 'ratusha' '![Ratusha](ratusha.jpg)' %}
 
-<div style="text-align: center;">
-
-<div style="text-align: left;">
-
-[\<\<  Back](fofmb.html)  
-  
-
-</div>
-
-<div style="text-align: left;">
-
-<div style="text-align: left;">
-
-  
-
-</div>
-
-</div>
-
-Fundamentals of Modern Belarusian  
-By Chris Marchant  
-\<[www.vitba.org](http://www.vitba.org/)\>  
-
-</div>
-
-  
-  
 **Introduction**  
 [**Chapter 1**, Spelling
 Rules](chapter1.html)  
