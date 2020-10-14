@@ -5,10 +5,10 @@ layout: page
 
 {% marginnote 'ratusha' '![Ratusha](ratusha.jpg)' %}[Fundamentals of Modern Belarusian](fofmb/fofmb.html).  
 
-| [Fundamentals of Modern Belarusian](fofmb/fofmb.html) |
-| [Concordance](concordance/concordance.html) |
-| [Culture](culture/culture.html) |
-| [About Chris Marchant](aboutthe/chris_marchant.html) |
+ - [Fundamentals of Modern Belarusian](fofmb/fofmb.html)
+ - Concordance](concordance/concordance.html)
+ - [Culture](culture/culture.html)
+ - [About Chris Marchant](aboutthe/chris_marchant.html)
 
 Chris Marchant wrote a  Belarusian concordance fetcher based on [knihi.com](http://www.knihi.com/).
   
