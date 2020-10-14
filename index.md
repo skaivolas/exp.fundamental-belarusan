@@ -31,38 +31,13 @@ willing to contribute, the following need to be done.
   - Proofreading of transcriptions.  This of course can't be done until
     I scan the originals and post them as well.  
 
-{% marginnote 'banner' '![banner](banner.jpg)' %}
- <span class="small"></span>
-<span class="small"></span> <span class="small"></span>
-<span class="small"></span>
-
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="fofmb/fofmb.html">Fundamentals of Modern Belarusian</a><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="concordance/concordance.html">Concordance</a><br />
-</td>
-</tr>
-<tr class="odd">
-<td><a href="culture/culture.html"><span style="text-decoration: underline;">Culture</span></a><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="aboutthe/chris_marchant.html">About Chris Marchant<br />
-</a></td>
-</tr>
-</tbody>
-</table>
-
+| [Fundamentals of Modern Belarusian](fofmb/fofmb.html) |
+| [Concordance](concordance/concordance.html) |
+| [Culture](culture/culture.html) |
+| [About Chris Marchant](aboutthe/chris_marchant.html) |
   
   
-09/18/04 : Uploaded the rest of the transcriptions (Culture section), added their translations.  [Pretty](culture/transcriptions/dzyonnik_5_brygady/lyric_lyonya.html),
+{% marginnote 'banner' '![banner](banner.jpg)' %}09/18/04 : Uploaded the rest of the transcriptions (Culture section), added their translations.  [Pretty](culture/transcriptions/dzyonnik_5_brygady/lyric_lyonya.html),
 [interesting](culture/transcriptions/dzyonnik_5_brygady/text_4.html) [ones](culture/transcriptions/dzyonnik_5_brygady/vyalikaya_vobryna_village.html), so [check it
 out](culture/transcriptions/dzyonnik_5_brygady/fifth_brigade.html)\!  
 09/02/04 : Typed up the transcriptions given by Prof. Rusak, uploaded them (Culture section), probable mistakes.
