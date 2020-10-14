@@ -1,60 +1,8 @@
 ---
-title:  chapter1. 
+title:  Chapter 1 Spelling Rules  
 layout: page
 ---
 
-
-<div style="text-align: center;">
-
-<div style="text-align: left;">
-
-<span style="font-weight: bold;"></span>
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>                                       <br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a></td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter2.html">Chapter 2:  Noun Declension<br />
-</a></td>
-</tr>
-</tbody>
-</table>
-
-<span style="font-weight: bold;"></span>
-
-</div>
-
-<div style="text-align: left;">
-
-<span style="font-weight: bold;"></span>  
-<span style="font-weight: bold;"></span>  
-<span style="font-weight: bold;"></span>
-
-</div>
-
-<span style="font-weight: bold;"><span class="small"><span class="small"></span></span>Chapter
-1</span>  
-  
-Spelling Rules  
-
-</div>
-
-  
     It is important to understand Belarusian spelling, which can be
 quite complex and more difficult than Russian.  Most of the complexity
 of Belarusian morphology is a result of spelling rules.  This problem is

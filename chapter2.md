@@ -1,54 +1,9 @@
 ---
-title:  chapter2. 
+title:  Chapter 2 Noun Declension
 layout: page
 ---
 
-
-<div style="text-align: center;">
-
-<div style="text-align: left;">
-
-<span style="font-weight: bold;"></span>
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter1.html">&lt;&lt; Chapter 1:  Spelling Rules</a>                                        <br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter3.html">Chapter 3:  Additional Points on Noun Declension &gt;&gt;<br />
-</a></td>
-</tr>
-</tbody>
-</table>
-
-<span style="font-weight: bold;"><span class="small"><span class="small">  
-</span>  
-</span></span><span style="font-weight: bold;"></span>
-
-</div>
-
-<span style="font-weight: bold;">Chapter 2</span>  
   
-Noun Declension  
-
-</div>
-
-   
     Because of the complex nature of Belarusian spelling rules, I have
 attempted to give exhaustive examples of the different declensions. 
 Most of the declensions are slight variations of one of the few basic

@@ -1,47 +1,9 @@
 ---
-title:  chapter8. 
+title: Chapter 8  Possessive and Demonstrative Pronouns  
 layout: page
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter7.html">&lt;&lt; Chapter 7:  Personal Pronouns</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter9.html">Chapter 9:  Interrogative and Relative Pronouns &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-
-<div style="text-align: center;">
-
-Chapter 8  
-  
-Possessive and Demonstrative Pronouns  
-
-</div>
-
-  
+ 
     These pronouns follow the same rules as adjectives, declining for
 gender and case to match the nouns they modify, see
 <span style="font-weight: bold;">Chapter 5</span> for more details on

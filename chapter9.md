@@ -1,44 +1,8 @@
 ---
-title:  chapter9. 
+title: Chapter 9  Interrogative and Relative Pronouns  
 layout: page
 ---
 
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><a href="chapter8.html">&lt;&lt; Chapter 8:  Possessive and Demonstrative Pronouns</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter10.html">Chapter 10:  Numerals &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-<div style="text-align: center;">
-
-  
-  
-Chapter 9  
-  
-Interrogative and Relative Pronouns  
-
-</div>
 
   
     These pronouns follow the same rules as adjectives, declining for

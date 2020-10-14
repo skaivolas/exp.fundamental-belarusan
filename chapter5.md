@@ -1,55 +1,9 @@
 ---
-title:  chapter5. 
+title: Chapter 5  Adjective Declension  
 layout: page
 ---
 
-
-<div style="text-align: center;">
-
-<div style="text-align: left;">
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-<tr class="even">
-<td><a href="chapter4.html">&lt;&lt; Chapter 4:  Irregular Plurals</a>                                 <br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter6.html">Chapter 6:  Comparative and Superlative Adjectives &gt;&gt;</a><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-
-</div>
-
-</div>
-
-<div style="text-align: center;">
-
-Chapter 5  
-  
-Adjective Declension  
-
-</div>
-
-  
+ 
     Adjectives generally match the gender and case of the noun they
 describe.  As mentioned in <span style="font-weight: bold;">Section
 3.1</span>, the accusative case of animate masculine nouns and plural
