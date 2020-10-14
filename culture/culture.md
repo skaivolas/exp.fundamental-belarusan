@@ -3,6 +3,7 @@ title: Culture
 layout: page
 ---
 
+
 ![Dancing in the Childrens' Park](dancing.jpg)  
 
 Belarusian Culture  
