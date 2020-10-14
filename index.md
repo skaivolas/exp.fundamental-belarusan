@@ -31,11 +31,7 @@ willing to contribute, the following need to be done.
   - Proofreading of transcriptions.  This of course can't be done until
     I scan the originals and post them as well.  
 
-{% marginnote 'banner' '![banner](banner.jpg)' %}
-
-  
-
-[Fundamentals of Modern Belarusian](fofmb/fofmb.html)  
+{% marginnote 'banner' '![banner](banner.jpg)' %}[Fundamentals of Modern Belarusian](fofmb/fofmb.html)  
 
 [Concordance](concordance/concordance.html)  
 
