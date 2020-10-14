@@ -1,4 +1,4 @@
-{% assign pages=site.pages | where:"lang", page.lang | where:"ifcontent", 'yes' | sort: 'date' %}
+{% assign pages=site.pages | sort: 'date' %}
 
 {% if pages.size > 1 %}
 {% assign prevurl = pages.last.url %}
