@@ -33,69 +33,69 @@ By Chris Marchant
 
   
   
-<span style="font-weight: bold;">Introduction</span>  
-[<span style="font-weight: bold;">Chapter 1</span>, Spelling
+**Introduction**  
+[**Chapter 1**, Spelling
 Rules](chapter1.html)  
-[<span style="font-weight: bold;">Chapter 2</span>, Noun
+[**Chapter 2**, Noun
 Declension](chapter2.html)  
-[<span style="font-weight: bold;">Chapter 3</span>, Additional Points on
+[**Chapter 3**, Additional Points on
 Noun Declension](chapter3.html)  
-[<span style="font-weight: bold;">Chapter 4</span>, Irregular
+[**Chapter 4**, Irregular
 Plurals](chapter4.html)  
-[<span style="font-weight: bold;">Chapter 5</span>, Adjective
+[**Chapter 5**, Adjective
 Declension](chapter5.html)  
-[<span style="font-weight: bold;">Chapter 6</span>, Comparative and
+[**Chapter 6**, Comparative and
 Superlative Adjective](chapter6.html)  
-[<span style="font-weight: bold;">Chapter 7</span>, Personal
+[**Chapter 7**, Personal
 Pronouns](chapter7.html)  
-[<span style="font-weight: bold;">Chapter 8</span>, Possessive and
+[**Chapter 8**, Possessive and
 Demonstrative Pronouns](chapter8.html)  
-[<span style="font-weight: bold;">Chapter 9</span>, Interrogative and
+[**Chapter 9**, Interrogative and
 Relative Pronouns](chapter9.html)  
-[<span style="font-weight: bold;">Chapter 10</span>,
+[**Chapter 10**,
 Numerals](chapter10.html)  
-[<span style="font-weight: bold;">Chapter 11</span>, 1st Conjugation
+[**Chapter 11**, 1st Conjugation
 Verbs](chapter11.html)  
-[<span style="font-weight: bold;">Chapter 12</span>, 2nd Conjugation
+[**Chapter 12**, 2nd Conjugation
 Verbs](chapter12.html)  
-[<span style="font-weight: bold;">Chapter 13</span>, Miscellaneous
+[**Chapter 13**, Miscellaneous
 Verbs](chapter13.html)  
-[<span style="font-weight: bold;">Chapter 14</span>, Reflexive
+[**Chapter 14**, Reflexive
 Verbs](chapter14.html)  
-[<span style="font-weight: bold;">Chapter 15</span>, Past
+[**Chapter 15**, Past
 Tenses](chapter15.html)  
-[<span style="font-weight: bold;">Chapter 16</span>, Present and Future
+[**Chapter 16**, Present and Future
 Tenses](chapter16.html)  
-[<span style="font-weight: bold;">Chapter 17</span>, The
+[**Chapter 17**, The
 Imperative](chapter17.html)  
-[<span style="font-weight: bold;">Chapter 18</span>, Verbs of
+[**Chapter 18**, Verbs of
 Motion](chapter18.html)  
-[<span style="font-weight: bold;">Chapter 19</span>, Verbal
+[**Chapter 19**, Verbal
 Prefixes](chapter19.html)  
-[<span style="font-weight: bold;">Chapter 20</span>, Gerunds and
+[**Chapter 20**, Gerunds and
 Participles](chapter20.html)  
-[<span style="font-weight: bold;">Chapter 21</span>, The Nominative
+[**Chapter 21**, The Nominative
 Case](chapter21.html)  
-[<span style="font-weight: bold;">Chapter 22</span>, The Accusative
+[**Chapter 22**, The Accusative
 Case](chapter22.html)  
-[<span style="font-weight: bold;">Chapter 23</span>, The Genitive
+[**Chapter 23**, The Genitive
 Case](chapter23.html)  
-[<span style="font-weight: bold;">Chapter 24</span>, The Dative
+[**Chapter 24**, The Dative
 Case](chapter24.html)  
-[<span style="font-weight: bold;">Chapter 25</span>, The Instrumental
+[**Chapter 25**, The Instrumental
 Case](chapter25.html)  
-[<span style="font-weight: bold;">Chapter 26</span>, The Prepositional
+[**Chapter 26**, The Prepositional
 Case](chapter26.html)  
-[<span style="font-weight: bold;">Chapter 27</span>, Prepositional
+[**Chapter 27**, Prepositional
 Oddities](chapter27.html)  
-[<span style="font-weight: bold;">Chapter 28</span>, Conditional
+[**Chapter 28**, Conditional
 Sentences](chapter28.html)  
-[<span style="font-weight: bold;">Chapter 29</span>,
+[**Chapter 29**,
 Adverbs](chapter29.html)  
-[<span style="font-weight: bold;">Chapter 30</span>, Conjunctions and
+[**Chapter 30**, Conjunctions and
 Particles](chapter30.html)  
-[<span style="font-weight: bold;">GNU Free Documentation
-License</span>](gnufreedl.html)  
+[**GNU Free Documentation
+License**](gnufreedl.html)  
   
 [Download a PDF](fofmb.pdf)  
   
@@ -129,6 +129,4 @@ declensions, conjugations, and vocabulary.
   
   
   
-To my comrades of the Vitebskaya Banda  
-  
-  
+To my comrades of the Vitebskaya Banda
