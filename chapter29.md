@@ -659,41 +659,4 @@ adjectives.  A very few of them are listed here.
 </table>
 
   
-  
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter28.html">&lt;&lt; Chapter 28:  Conditional Sentences</a></td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter30.html">Chapter 30:  Adverbs</a> <a href="chapter30.html">&gt;&gt;</a></td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  

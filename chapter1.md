@@ -770,30 +770,3 @@ off.
 
   
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>                                      <br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter2.html">Chapter 2:  Noun Declension</a><br />
-</td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction<br />
-</a></td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
- 

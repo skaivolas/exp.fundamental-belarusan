@@ -97,8 +97,9 @@ Particles](chapter30.html)
 [<span style="font-weight: bold;">GNU Free Documentation
 License</span>](gnufreedl.html)  
   
+[Download a PDF](fofmb.pdf)  
   
-  
+
     While living in several former republics of the USSR, I learned to
 speak Russian, the <span style="font-style: italic;">lingua
 franca</span> of CIS countries.  Russian is spoken by the majority of

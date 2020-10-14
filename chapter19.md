@@ -815,44 +815,4 @@ changes to ува- with
 </table>
 
   
-  
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter18.html">&lt;&lt; Chapter 18:  Verbs of Motion</a></td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter20.html">Chapter 20:  Gerunds and Participles &gt;&gt;</a></td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 

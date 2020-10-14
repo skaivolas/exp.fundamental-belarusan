@@ -231,42 +231,4 @@ suffix -<span style="font-weight: bold;">ся</span> placed on the end.
 </tbody>
 </table>
 
-  
-  
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter13.html">&lt;&lt; Chapter 13:  Miscellaneious Verbs and Verb Irregularities</a></td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter15.html">Chapter 15:  Past Tenses &gt;&gt;</a><a href="file:///Users/chris/vitba.org/fofmb/chapter14.html"></a></td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  

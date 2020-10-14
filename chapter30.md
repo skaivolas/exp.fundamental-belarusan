@@ -974,41 +974,4 @@ question]</span><br />
 </table>
 
   
-  
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter29.html">&lt;&lt; Chapter 29:  Adverbs</a></td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="gnufreedl.html">GNU Free Documentation License</a> <a href="gnufreedl.html">&gt;&gt;</a></td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  

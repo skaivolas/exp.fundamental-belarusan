@@ -579,42 +579,4 @@ third person impersonal.
 
   
   
-  
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter4.html">&lt;&lt; Chapter 4:  Irregular Plurals</a>                              <br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter6.html">Chapter 6:  Comparative and Superlative Adjectives &gt;&gt;</a><br />
-</td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 

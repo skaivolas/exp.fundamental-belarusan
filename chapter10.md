@@ -1366,33 +1366,3 @@ like the neuter nouns of <span style="font-weight: bold;">Section
 
   
   
-  
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter9.html">&lt;&lt; Chapter 9:  Interrogative and Relative Pronouns</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter11.html">Chapter 11:  1st Conjugation Verbs &gt;&gt;</a><br />
-</td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  

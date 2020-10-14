@@ -200,43 +200,4 @@ movement towards]<br />
 </table>
 
   
-  
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter23.html">&lt;&lt; Chapter 23:  The Genitive Case</a></td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter25.html">Chapter 25:  The Instrumental Case &gt;&gt;</a></td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  

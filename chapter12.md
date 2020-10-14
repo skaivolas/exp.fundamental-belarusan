@@ -531,36 +531,4 @@ consonant, conjugate like
 </table>
 
   
-  
-
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><a href="chapter11.html">&lt;&lt; Chapter 11:  1st Conjugation Verbs</a><br />
-</td>
-<td style="text-align: center;"><br />
-</td>
-<td style="text-align: right;"><a href="chapter13.html">Chapter 13: </a> <a href="chapter13.html">Miscellaneous Verbs</a> <a href="chapter13.html">&gt;&gt;</a><br />
-</td>
-</tr>
-<tr class="even">
-<td><br />
-</td>
-<td style="text-align: center;"><a href="introduction.html">Introduction</a><br />
-</td>
-<td style="text-align: right;"><br />
-</td>
-</tr>
-</tbody>
-</table>
-
-  
-  
-  
-
 
