@@ -41,8 +41,7 @@ willing to contribute, the following need to be done.
 
 [Culture](culture/culture.html)  
 
-[About Chris Marchant  
-](aboutthe/chris_marchant.html)
+[About Chris Marchant](aboutthe/chris_marchant.html)
 
   
   
