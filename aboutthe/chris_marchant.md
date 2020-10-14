@@ -3,9 +3,6 @@ title: About
 layout: page
 ---
 
-[\<- Back](../index.html)  
-  
-  
 [![](cavity.jpg)](http://www.zionnationalpark.com/)  
   
 My name is Chris Marchant, I am from [Rochester, New
@@ -190,21 +187,3 @@ definitive, and free Belarusian-English dictionary.
     Currently, I am attending [Utah State
 University](http://www.usu.edu/), where I am getting my doctorate degree
 in [Electrical Engineering](http://www.sdl.usu.edu/).  
-  
-  
-[\<- Back](../index.html)  
-  
-  
-  
-  
-[  
-  
-  
-  
-](mailto:vitbich@vitba.org)
-
-<div style="text-align: center;">
-
-[Email me at vitbich@vitba.org](mailto:vitbich@vitba.org)  
-
-</div>
